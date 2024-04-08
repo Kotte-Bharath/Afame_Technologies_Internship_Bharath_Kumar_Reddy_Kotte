@@ -58,7 +58,7 @@ After setting up the database, various analytical queries were written in MySQL 
 
 ## Dashboard Creation
 
-Using the data from MySQL, a dashboard was created using visualization tools like Plotly and Dash. The dashboard includes:
+Using the data from MySQL, a dashboard was created using visualization tool MS Power BI. The dashboard includes:
 
 - Measures such as total sales, profit, and shipping costs.
 - Graphs and charts for visual representation of data trends.
